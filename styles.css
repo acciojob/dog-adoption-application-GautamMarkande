@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+main{
+	display:flex;
+	flex-direction:column;
+}
